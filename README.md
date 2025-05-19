@@ -14,11 +14,9 @@ macOS端的b站体验十分糟糕，很长一段时间里我都是使用bewlybew
 
 I’m Ling, a tech enthusiast and designer who loves all things beautiful. This is the first project I’ve ever submitted.
 
-The Bilibili experience on macOS has been quite poor. For a long time, I used bewlybewly, but due to limitations of the web itself, the experience still had several drawbacks — for example, the dynamic feed being single-column only, or new videos opening in a new tab, which didn’t fit my usage habits. I’ve been using piliPalaX on my phone for quite some time and have gotten used to its interface logic and customizable features. I’ve always wanted to bring it to macOS.
+The Bilibili experience on macOS has been quite poor. For a long time, I used bewlybewly, but due to limitations of the web itself, the experience still had several drawbacks. A few days ago, with the help of ChatGPT, I recompiled the project’s source code and packaged it into a macOS app. It now runs successfully on macOS. The process was very straightforward, and I didn’t encounter many difficulties — thanks to ChatGPT for that.
 
-A few days ago, with the help of ChatGPT, I recompiled the project’s source code and packaged it into a macOS app. It now runs successfully on macOS. The process was very straightforward, and I didn’t encounter many difficulties — thanks to ChatGPT for that.
-
-Since I compiled the full source code, all of piliPalaX’s existing features — as well as its bugs — are present in this version. Additionally, some issues have emerged due to the crude adaptation for larger desktop screens, such as UI spacing and gesture operations. I’m not a CS major — I’m a design student — but I may try to tweak some of the interaction-related code later or work with my CS friends to improve it. For now, I’m just happy to have gone from nothing to something.
+Since I compiled the full source code, all of piliPalaX’s existing features — as well as its bugs — are present in this version. Additionally, some issues have emerged due to the crude adaptation for larger desktop screens, such as UI spacing and gesture operations. I’m not a CS major — I’m a design student — but I may try to tweak some of the interaction-related code later. For now, I’m just happy to have gone from nothing to something.
 
 If you’d like to run piliPalaX on a mobile device, please visit the original project here: https://github.com/orz12/PiliPalaX
 
