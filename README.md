@@ -9,6 +9,9 @@ macOS端的b站体验十分糟糕，很长一段时间里我都是使用bewlybew
 我对于GitHub并不熟悉，也不太清楚开源社区应该如何引用、注明或致谢原项目，需要访问此项目的各位指导我，任何意见和建议都可以在issues中发送，我会定期查看。谢谢各位的理解和支持！
 
 
+
+
+
 I’m Ling, a tech enthusiast and designer who loves all things beautiful. This is the first project I’ve ever submitted.
 
 The Bilibili experience on macOS has been quite poor. For a long time, I used bewlybewly, but due to limitations of the web itself, the experience still had several drawbacks — for example, the dynamic feed being single-column only, or new videos opening in a new tab, which didn’t fit my usage habits. I’ve been using piliPalaX on my phone for quite some time and have gotten used to its interface logic and customizable features. I’ve always wanted to bring it to macOS.
