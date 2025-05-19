@@ -1,6 +1,3 @@
-# PilipalaX-for-macOS
-PiliPalaX-for-macOS is a project that recompiles the latest source code from the open-source project pilipalax into a format runnable on macOS, with all features remaining consistent with the original project.
-
 我是Ling，一个喜欢一切美好事物的彩笔科技宅，这是我提交的第一个项目。
 
 macOS端的b站体验十分糟糕，很长一段时间里我都是使用bewlybewly，但是受限于网页本身的问题体验也有不太好的地方，比如动态还是单列，比如打开新视频是一个新标签页，不太符合我的使用习惯。在手机上使用pilipalaX很久了，很习惯里面的操作逻辑和各种可自定义的选项，一直想着怎么搬入macOS上。前几天在ChatGPT的帮助下，我将项目源码重新进行了编译并打包，现在能够在macOS上正常运行了。非常简单的操作，几乎没有遇到什么难点，感谢ChatGPT。
